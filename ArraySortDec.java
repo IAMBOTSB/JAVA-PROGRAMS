@@ -4,7 +4,7 @@ import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 
-public class Takestringinputnadsortdec
+public class ArraySortDec
 {
     public static void main(String[] args)
     {

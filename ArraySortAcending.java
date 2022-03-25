@@ -4,7 +4,7 @@ import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 
-public class ArraySortDec
+public class ArraySortAcending
 {
     public static void main(String[] args)
     {

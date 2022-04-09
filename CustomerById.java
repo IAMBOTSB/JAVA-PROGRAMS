@@ -11,7 +11,7 @@ public class CustomerById{
         String input[] = new String[1];
 
         input[0]=sc.next();
-        sc.skip("[\r\n]");
+        
 
 
         customerDetails[0][0]="1001";
